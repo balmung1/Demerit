@@ -1,0 +1,8 @@
+RoomSystem\DemeritRepository.class
+RoomSystem\PolicyHandler.class
+RoomSystem\Demerited.class
+RoomSystem\Demerit.class
+RoomSystem\DemeritController.class
+RoomSystem\Application.class
+RoomSystem\AbstractEvent.class
+RoomSystem\config\kafka\KafkaProcessor.class
